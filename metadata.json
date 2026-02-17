@@ -1,0 +1,21 @@
+{
+    "title": "Python: Lists - Introduction and Creation",
+    "slug": "python-lists-introduction",
+    "description": "Python-specific guide to lists, covering the syntax for creating lists with bracket notation and storing multiple values.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 5,
+    "prerequisites": [
+        "python-print",
+        "python-comments",
+        "programming-lists"
+    ],
+    "related": [
+        "python-lists-indexing",
+        "python-lists-slicing"
+    ]
+}
