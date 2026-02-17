@@ -12,7 +12,7 @@
     "prerequisites": [
         "python-print",
         "python-comments",
-        "programming-lists"
+        "programming-lists-arrays"
     ],
     "related": [
         "python-lists-indexing",
