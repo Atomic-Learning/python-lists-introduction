@@ -1,5 +1,5 @@
 {
-    "title": "Python: Lists - Introduction and Creation",
+    "title": "Python: Lists - Introduction",
     "slug": "python-lists-introduction",
     "description": "Python-specific guide to lists, covering the syntax for creating lists with bracket notation and storing multiple values.",
     "authors": [
@@ -8,7 +8,7 @@
     "tags": [
         "python"
     ],
-    "duration": 5,
+    "duration": 3,
     "prerequisites": [
         "python-print",
         "python-comments",
