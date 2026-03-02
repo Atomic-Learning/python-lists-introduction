@@ -16,6 +16,7 @@
     ],
     "related": [
         "python-indexing",
-        "python-lists-slicing"
+        "python-lists-slicing",
+        "python-for-loops-over-iterables"
     ]
 }
