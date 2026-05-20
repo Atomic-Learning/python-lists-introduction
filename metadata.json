@@ -11,11 +11,13 @@
     "duration": 3,
     "prerequisites": [
         "python-print",
-        "python-comments",
+        "python-strings-introduction",
+        "python-booleans",
         "programming-lists-arrays"
     ],
     "related": [
         "python-indexing",
-        "python-lists-slicing"
+        "python-lists-slicing",
+        "python-for-loops-over-iterables"
     ]
 }
